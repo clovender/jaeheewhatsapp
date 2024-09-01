@@ -216,7 +216,7 @@
 }
 
 #workskin .wpp .frommc {
-  color: ##ff69b4;
+  color: #ff69b4;
   font-weight: bold;
   font-size: 0.85rem;
   line-height: 24px;
