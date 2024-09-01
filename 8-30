@@ -208,8 +208,50 @@
   margin-left: 92px;
 }
 
-#workskin .wpp .fromyellow {
-  color: #FFBC38;
+#workskin .wpp .fromjaehee {
+  color: #fdeb89;
+  font-weight: bold;
+  font-size: 0.85rem;
+  line-height: 24px;
+}
+
+#workskin .wpp .frommc {
+  color: ##ff69b4;
+  font-weight: bold;
+  font-size: 0.85rem;
+  line-height: 24px;
+}
+
+#workskin .wpp .fromzen {
+  color: #fdeb89;
+  font-weight: bold;
+  font-size: 0.85rem;
+  line-height: 24px;
+}
+
+#workskin .wpp .fromyoosung {
+  color: #fdeb89;
+  font-weight: bold;
+  font-size: 0.85rem;
+  line-height: 24px;
+}
+
+#workskin .wpp .fromjumin {
+  color: #fdeb89;
+  font-weight: bold;
+  font-size: 0.85rem;
+  line-height: 24px;
+}
+
+#workskin .wpp .fromv {
+  color: #fdeb89;
+  font-weight: bold;
+  font-size: 0.85rem;
+  line-height: 24px;
+}
+
+#workskin .wpp .from707 {
+  color: #fdeb89;
   font-weight: bold;
   font-size: 0.85rem;
   line-height: 24px;
@@ -271,7 +313,7 @@
   height: 20px;
 }
 
-#workskin .wpp .header .button1 {
+#workskin .wpp .headerjaehee .button1 {
   width: 28px;
   vertical-align: top;
   top: 17px;
@@ -279,43 +321,172 @@
   position: absolute;
 }
 
-#workskin .wpp .header .button2 {
+#workskin .wpp .headerjaehee .button2 {
   width: 20px;
   margin-top: 0px;
   margin-left: 270px;
   position: absolute;
 }
 
-#workskin .wpp .header .button3 {
+#workskin .wpp .headerjaehee .button3 {
   width: 20px;
   margin-top: 0px;
   margin-left: 301px;
   position: absolute;
 }
 
-#workskin .wpp .group {
-  color: #FFFFFF;
-  font-weight: bold;
-  font-size: 1.15em;
-  top: 15px;
+#workskin .wpp .headermc .button1 {
+  width: 28px;
+  vertical-align: top;
+  top: 17px;
+  margin-left: 10px;
   position: absolute;
-  text-align: left;
-  margin-left: 100px;
-  overflow: hidden;
-  max-width: 153px;
-  height: 20px;
 }
 
-#workskin .wpp .groupmembers {
-  color: #FFFFFF;
-  font-size: .8em;
-  top: 33px;
-  height: 15px;
+#workskin .wpp .headermc .button2 {
+  width: 20px;
+  margin-top: 0px;
+  margin-left: 270px;
   position: absolute;
-  text-align: left;
-  margin-left: 100px;
-  overflow: hidden;
-  max-width: 153px;
+}
+
+#workskin .wpp .headermc .button3 {
+  width: 20px;
+  margin-top: 0px;
+  margin-left: 301px;
+  position: absolute;
+}
+
+#workskin .wpp .headerzen .button1 {
+  width: 28px;
+  vertical-align: top;
+  top: 17px;
+  margin-left: 10px;
+  position: absolute;
+}
+
+#workskin .wpp .headerzen .button2 {
+  width: 20px;
+  margin-top: 0px;
+  margin-left: 270px;
+  position: absolute;
+}
+
+#workskin .wpp .headerzen .button3 {
+  width: 20px;
+  margin-top: 0px;
+  margin-left: 301px;
+  position: absolute;
+}
+
+#workskin .wpp .headeryoosung .button1 {
+  width: 28px;
+  vertical-align: top;
+  top: 17px;
+  margin-left: 10px;
+  position: absolute;
+}
+
+#workskin .wpp .headeryoosung .button2 {
+  width: 20px;
+  margin-top: 0px;
+  margin-left: 270px;
+  position: absolute;
+}
+
+#workskin .wpp .headeryoosung .button3 {
+  width: 20px;
+  margin-top: 0px;
+  margin-left: 301px;
+  position: absolute;
+}
+
+#workskin .wpp .headerjumin .button1 {
+  width: 28px;
+  vertical-align: top;
+  top: 17px;
+  margin-left: 10px;
+  position: absolute;
+}
+
+#workskin .wpp .headerjumin .button2 {
+  width: 20px;
+  margin-top: 0px;
+  margin-left: 270px;
+  position: absolute;
+}
+
+#workskin .wpp .headerjumin .button3 {
+  width: 20px;
+  margin-top: 0px;
+  margin-left: 301px;
+  position: absolute;
+}
+
+#workskin .wpp .headerv .button1 {
+  width: 28px;
+  vertical-align: top;
+  top: 17px;
+  margin-left: 10px;
+  position: absolute;
+}
+
+#workskin .wpp .headerv .button2 {
+  width: 20px;
+  margin-top: 0px;
+  margin-left: 270px;
+  position: absolute;
+}
+
+#workskin .wpp .headerv .button3 {
+  width: 20px;
+  margin-top: 0px;
+  margin-left: 301px;
+  position: absolute;
+}
+
+#workskin .wpp .header707 .button1 {
+  width: 28px;
+  vertical-align: top;
+  top: 17px;
+  margin-left: 10px;
+  position: absolute;
+}
+
+#workskin .wpp .header707 .button2 {
+  width: 20px;
+  margin-top: 0px;
+  margin-left: 270px;
+  position: absolute;
+}
+
+#workskin .wpp .header707 .button3 {
+  width: 20px;
+  margin-top: 0px;
+  margin-left: 301px;
+  position: absolute;
+}
+
+#workskin .wpp .headerrfa .button1 {
+  width: 28px;
+  vertical-align: top;
+  top: 17px;
+  margin-left: 10px;
+  position: absolute;
+}
+
+#workskin .wpp .headerrfa .button2 {
+  width: 20px;
+  margin-top: 0px;
+  margin-left: 270px;
+  position: absolute;
+}
+
+#workskin .wpp .headerrfa .button3 {
+  width: 20px;
+  margin-top: 0px;
+  margin-left: 301px;
+  position: absolute;
 }
 
 #workskin .wpp .typingbar .button1 {
@@ -372,7 +543,7 @@
   font-size: .95em;
 }
 
-#workskin .wpp .light .sent1 {
+#workskin .wpp .light .sent1jaehee {
   float: right;
   color: #000000;
   margin: 0.1em 1em;
@@ -387,7 +558,7 @@
   box-shadow: 1.1px 1.1px 3px rgba(202, 203, 204, 1);
 }
 
-#workskin .wpp .light .sent1::after {
+#workskin .wpp .light .sent1jaehee::after {
   content: "";
   width: 0px;
   height: 0px;
@@ -399,7 +570,7 @@
   right: -1.4em;
 }
 
-#workskin .wpp .light .sent1::before {
+#workskin .wpp .light .sent1jaehee::before {
   content: "";
   width: .6em;
   height: 2em;
@@ -410,7 +581,7 @@
   right: -.6em;
 }
 
-#workskin .wpp .light .sent2 {
+#workskin .wpp .light .sent2jaehee {
   float: right;
   color: #000000;
   margin: 0.1em 1em;
@@ -418,6 +589,378 @@
   border-radius: 0.8em;
   padding: .5em .8em .4em .8em;
   background: #fdeb89;
+  max-width: 70%;
+  min-height: 20px;
+  clear: both;
+  position: relative;
+  box-shadow: 1.1px 1.1px 3px rgba(202, 203, 204, 1);
+}
+
+#workskin .wpp .light .sent1mc {
+  float: right;
+  color: #000000;
+  margin: 0.1em 1em;
+  margin-top: 0.7em;
+  border-radius: 0.8em 0 0.8em 0.8em;
+  padding: .5em .8em .4em .8em;
+  background: #ffc0cb;
+  max-width: 70%;
+  min-height: 20px;
+  clear: both;
+  position: relative;
+  box-shadow: 1.1px 1.1px 3px rgba(202, 203, 204, 1);
+}
+
+#workskin .wpp .light .sent1mc::after {
+  content: "";
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 0em 1em 1em .5em;
+  border-color: transparent transparent transparent #ffc0cb;
+  position: absolute;
+  top: 0px;
+  right: -1.4em;
+}
+
+#workskin .wpp .light .sent1mc::before {
+  content: "";
+  width: .6em;
+  height: 2em;
+  border: 0px;
+  background-image: linear-gradient(112deg, rgba(202, 203, 204, 1), rgba(255,0,0,0), rgba(255,0,0,0));
+  position: absolute;
+  top: .6px;
+  right: -.6em;
+}
+
+#workskin .wpp .light .sent2mc {
+  float: right;
+  color: #000000;
+  margin: 0.1em 1em;
+  margin-top: 0.25em;
+  border-radius: 0.8em;
+  padding: .5em .8em .4em .8em;
+  background: #ffc0cb;
+  max-width: 70%;
+  min-height: 20px;
+  clear: both;
+  position: relative;
+  box-shadow: 1.1px 1.1px 3px rgba(202, 203, 204, 1);
+}
+
+
+#workskin .wpp .light .sent1zen {
+  float: right;
+  color: #000000;
+  margin: 0.1em 1em;
+  margin-top: 0.7em;
+  border-radius: 0.8em 0 0.8em 0.8em;
+  padding: .5em .8em .4em .8em;
+  background: #cccccf;
+  max-width: 70%;
+  min-height: 20px;
+  clear: both;
+  position: relative;
+  box-shadow: 1.1px 1.1px 3px rgba(202, 203, 204, 1);
+}
+
+#workskin .wpp .light .sent1zen::after {
+  content: "";
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 0em 1em 1em .5em;
+  border-color: transparent transparent transparent #cccccf;
+  position: absolute;
+  top: 0px;
+  right: -1.4em;
+}
+
+#workskin .wpp .light .sent1zen::before {
+  content: "";
+  width: .6em;
+  height: 2em;
+  border: 0px;
+  background-image: linear-gradient(112deg, rgba(202, 203, 204, 1), rgba(255,0,0,0), rgba(255,0,0,0));
+  position: absolute;
+  top: .6px;
+  right: -.6em;
+}
+
+#workskin .wpp .light .sent2zen {
+  float: right;
+  color: #000000;
+  margin: 0.1em 1em;
+  margin-top: 0.25em;
+  border-radius: 0.8em;
+  padding: .5em .8em .4em .8em;
+  background: #cccccf;
+  max-width: 70%;
+  min-height: 20px;
+  clear: both;
+  position: relative;
+  box-shadow: 1.1px 1.1px 3px rgba(202, 203, 204, 1);
+}
+
+#workskin .wpp .light .sent1yoosung {
+  float: right;
+  color: #000000;
+  margin: 0.1em 1em;
+  margin-top: 0.7em;
+  border-radius: 0.8em 0 0.8em 0.8em;
+  padding: .5em .8em .4em .8em;
+  background: #72f18e;
+  max-width: 70%;
+  min-height: 20px;
+  clear: both;
+  position: relative;
+  box-shadow: 1.1px 1.1px 3px rgba(202, 203, 204, 1);
+}
+
+#workskin .wpp .light .sent1yoosung::after {
+  content: "";
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 0em 1em 1em .5em;
+  border-color: transparent transparent transparent #72f18e;
+  position: absolute;
+  top: 0px;
+  right: -1.4em;
+}
+
+#workskin .wpp .light .sent1yoosung::before {
+  content: "";
+  width: .6em;
+  height: 2em;
+  border: 0px;
+  background-image: linear-gradient(112deg, rgba(202, 203, 204, 1), rgba(255,0,0,0), rgba(255,0,0,0));
+  position: absolute;
+  top: .6px;
+  right: -.6em;
+}
+
+#workskin .wpp .light .sent2yoosung {
+  float: right;
+  color: #000000;
+  margin: 0.1em 1em;
+  margin-top: 0.25em;
+  border-radius: 0.8em;
+  padding: .5em .8em .4em .8em;
+  background: #72f18e;
+  max-width: 70%;
+  min-height: 20px;
+  clear: both;
+  position: relative;
+  box-shadow: 1.1px 1.1px 3px rgba(202, 203, 204, 1);
+}
+
+#workskin .wpp .light .sent1jumin {
+  float: right;
+  color: #000000;
+  margin: 0.1em 1em;
+  margin-top: 0.7em;
+  border-radius: 0.8em 0 0.8em 0.8em;
+  padding: .5em .8em .4em .8em;
+  background: #95a6f3;
+  max-width: 70%;
+  min-height: 20px;
+  clear: both;
+  position: relative;
+  box-shadow: 1.1px 1.1px 3px rgba(202, 203, 204, 1);
+}
+
+#workskin .wpp .light .sent1jumin::after {
+  content: "";
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 0em 1em 1em .5em;
+  border-color: transparent transparent transparent #95a6f3;
+  position: absolute;
+  top: 0px;
+  right: -1.4em;
+}
+
+#workskin .wpp .light .sent1jumin::before {
+  content: "";
+  width: .6em;
+  height: 2em;
+  border: 0px;
+  background-image: linear-gradient(112deg, rgba(202, 203, 204, 1), rgba(255,0,0,0), rgba(255,0,0,0));
+  position: absolute;
+  top: .6px;
+  right: -.6em;
+}
+
+#workskin .wpp .light .sent2jumin {
+  float: right;
+  color: #000000;
+  margin: 0.1em 1em;
+  margin-top: 0.25em;
+  border-radius: 0.8em;
+  padding: .5em .8em .4em .8em;
+  background: #95a6f3;
+  max-width: 70%;
+  min-height: 20px;
+  clear: both;
+  position: relative;
+  box-shadow: 1.1px 1.1px 3px rgba(202, 203, 204, 1);
+}
+
+#workskin .wpp .light .sent1v {
+  float: right;
+  color: #000000;
+  margin: 0.1em 1em;
+  margin-top: 0.7em;
+  border-radius: 0.8em 0 0.8em 0.8em;
+  padding: .5em .8em .4em .8em;
+  background: #ace4ef;
+  max-width: 70%;
+  min-height: 20px;
+  clear: both;
+  position: relative;
+  box-shadow: 1.1px 1.1px 3px rgba(202, 203, 204, 1);
+}
+
+#workskin .wpp .light .sent1v::after {
+  content: "";
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 0em 1em 1em .5em;
+  border-color: transparent transparent transparent #ace4ef;
+  position: absolute;
+  top: 0px;
+  right: -1.4em;
+}
+
+#workskin .wpp .light .sent1v:before {
+  content: "";
+  width: .6em;
+  height: 2em;
+  border: 0px;
+  background-image: linear-gradient(112deg, rgba(202, 203, 204, 1), rgba(255,0,0,0), rgba(255,0,0,0));
+  position: absolute;
+  top: .6px;
+  right: -.6em;
+}
+
+#workskin .wpp .light .sent2v {
+  float: right;
+  color: #000000;
+  margin: 0.1em 1em;
+  margin-top: 0.25em;
+  border-radius: 0.8em;
+  padding: .5em .8em .4em .8em;
+  background: #ace4ef;
+  max-width: 70%;
+  min-height: 20px;
+  clear: both;
+  position: relative;
+  box-shadow: 1.1px 1.1px 3px rgba(202, 203, 204, 1);
+}
+
+#workskin .wpp .light .sent1seven {
+  float: right;
+  color: #000000;
+  margin: 0.1em 1em;
+  margin-top: 0.7em;
+  border-radius: 0.8em 0 0.8em 0.8em;
+  padding: .5em .8em .4em .8em;
+  background: #f99090;
+  max-width: 70%;
+  min-height: 20px;
+  clear: both;
+  position: relative;
+  box-shadow: 1.1px 1.1px 3px rgba(202, 203, 204, 1);
+}
+
+#workskin .wpp .light .sent1seven::after {
+  content: "";
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 0em 1em 1em .5em;
+  border-color: transparent transparent transparent #f99090;
+  position: absolute;
+  top: 0px;
+  right: -1.4em;
+}
+
+#workskin .wpp .light .sent1seven:before {
+  content: "";
+  width: .6em;
+  height: 2em;
+  border: 0px;
+  background-image: linear-gradient(112deg, rgba(202, 203, 204, 1), rgba(255,0,0,0), rgba(255,0,0,0));
+  position: absolute;
+  top: .6px;
+  right: -.6em;
+}
+
+#workskin .wpp .light .sent2seven {
+  float: right;
+  color: #000000;
+  margin: 0.1em 1em;
+  margin-top: 0.25em;
+  border-radius: 0.8em;
+  padding: .5em .8em .4em .8em;
+  background: #f99090;
+  max-width: 70%;
+  min-height: 20px;
+  clear: both;
+  position: relative;
+  box-shadow: 1.1px 1.1px 3px rgba(202, 203, 204, 1);
+}
+
+#workskin .wpp .light .sent1rfa {
+  float: right;
+  color: #000000;
+  margin: 0.1em 1em;
+  margin-top: 0.7em;
+  border-radius: 0.8em 0 0.8em 0.8em;
+  padding: .5em .8em .4em .8em;
+  background: #e9c2fe;
+  max-width: 70%;
+  min-height: 20px;
+  clear: both;
+  position: relative;
+  box-shadow: 1.1px 1.1px 3px rgba(202, 203, 204, 1);
+}
+
+#workskin .wpp .light .sent1rfa::after {
+  content: "";
+  width: 0px;
+  height: 0px;
+  border-style: solid;
+  border-width: 0em 1em 1em .5em;
+  border-color: transparent transparent transparent #e9c2fe;
+  position: absolute;
+  top: 0px;
+  right: -1.4em;
+}
+
+#workskin .wpp .light .sent1rfa:before {
+  content: "";
+  width: .6em;
+  height: 2em;
+  border: 0px;
+  background-image: linear-gradient(112deg, rgba(202, 203, 204, 1), rgba(255,0,0,0), rgba(255,0,0,0));
+  position: absolute;
+  top: .6px;
+  right: -.6em;
+}
+
+#workskin .wpp .light .sent2rfa {
+  float: right;
+  color: #000000;
+  margin: 0.1em 1em;
+  margin-top: 0.25em;
+  border-radius: 0.8em;
+  padding: .5em .8em .4em .8em;
+  background: #e9c2fe;
   max-width: 70%;
   min-height: 20px;
   clear: both;
@@ -581,7 +1124,7 @@
   text-align: left;
 }
 
-#workskin .wpp .light .header {
+#workskin .wpp .light .headerjaehee {
   background: #fbda28;
   width: 355;
   height: 60px;
@@ -593,7 +1136,161 @@
   z-index: 8;
 }
 
-#workskin .wpp .header .icon {
+#workskin .wpp .light .headermc {
+  background: #ff69b4;
+  width: 355;
+  height: 60px;
+  vertical-align: top;
+  top: 0px;
+  margin-bottom: -3px;
+  overflow: hidden;
+  position: sticky;
+  z-index: 8;
+}
+
+#workskin .wpp .light .headerzen {
+  background: #6c6c6c;
+  width: 355;
+  height: 60px;
+  vertical-align: top;
+  top: 0px;
+  margin-bottom: -3px;
+  overflow: hidden;
+  position: sticky;
+  z-index: 8;
+}
+
+#workskin .wpp .light .headeryoosung {
+  background: #1bd243;
+  width: 355;
+  height: 60px;
+  vertical-align: top;
+  top: 0px;
+  margin-bottom: -3px;
+  overflow: hidden;
+  position: sticky;
+  z-index: 8;
+}
+
+#workskin .wpp .light .headerjumin {
+  background: #130cae;
+  width: 355;
+  height: 60px;
+  vertical-align: top;
+  top: 0px;
+  margin-bottom: -3px;
+  overflow: hidden;
+  position: sticky;
+  z-index: 8;
+}
+
+#workskin .wpp .light .headerv {
+  background: #0aaccc;
+  width: 355;
+  height: 60px;
+  vertical-align: top;
+  top: 0px;
+  margin-bottom: -3px;
+  overflow: hidden;
+  position: sticky;
+  z-index: 8;
+}
+
+#workskin .wpp .light .header707 {
+  background: #cc0a0a;
+  width: 355;
+  height: 60px;
+  vertical-align: top;
+  top: 0px;
+  margin-bottom: -3px;
+  overflow: hidden;
+  position: sticky;
+  z-index: 8;
+}
+
+#workskin .wpp .light .headerrfa {
+  background: #8802b1;
+  width: 355;
+  height: 60px;
+  vertical-align: top;
+  top: 0px;
+  margin-bottom: -3px;
+  overflow: hidden;
+  position: sticky;
+  z-index: 8;
+}
+
+#workskin .wpp .headerjaehee .icon {
+  width: 40px;
+  border-radius: 50%;
+  float: left;
+  margin-top: -8px;
+  margin-left: 45px;
+  overflow: hidden;
+  position: absolute;
+}
+
+#workskin .wpp .headermc .icon {
+  width: 40px;
+  border-radius: 50%;
+  float: left;
+  margin-top: -8px;
+  margin-left: 45px;
+  overflow: hidden;
+  position: absolute;
+}
+
+#workskin .wpp .headerzen .icon {
+  width: 40px;
+  border-radius: 50%;
+  float: left;
+  margin-top: -8px;
+  margin-left: 45px;
+  overflow: hidden;
+  position: absolute;
+}
+
+#workskin .wpp .headeryoosung .icon {
+  width: 40px;
+  border-radius: 50%;
+  float: left;
+  margin-top: -8px;
+  margin-left: 45px;
+  overflow: hidden;
+  position: absolute;
+}
+
+#workskin .wpp .headerjumin .icon {
+  width: 40px;
+  border-radius: 50%;
+  float: left;
+  margin-top: -8px;
+  margin-left: 45px;
+  overflow: hidden;
+  position: absolute;
+}
+
+#workskin .wpp .headerv .icon {
+  width: 40px;
+  border-radius: 50%;
+  float: left;
+  margin-top: -8px;
+  margin-left: 45px;
+  overflow: hidden;
+  position: absolute;
+}
+
+#workskin .wpp .header707 .icon {
+  width: 40px;
+  border-radius: 50%;
+  float: left;
+  margin-top: -8px;
+  margin-left: 45px;
+  overflow: hidden;
+  position: absolute;
+}
+
+#workskin .wpp .headerrfa .icon {
   width: 40px;
   border-radius: 50%;
   float: left;
