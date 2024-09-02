@@ -202,7 +202,7 @@
 }
 
 #workskin .wpp .fromjaehee {
-  color: #fdeb89;
+  color: #fbda28;
   font-weight: bold;
   font-size: 0.85rem;
   line-height: 24px;
@@ -216,35 +216,35 @@
 }
 
 #workskin .wpp .fromzen {
-  color: #fdeb89;
+  color: #6c6c6c;
   font-weight: bold;
   font-size: 0.85rem;
   line-height: 24px;
 }
 
 #workskin .wpp .fromyoosung {
-  color: #fdeb89;
+  color: #1bd243;
   font-weight: bold;
   font-size: 0.85rem;
   line-height: 24px;
 }
 
 #workskin .wpp .fromjumin {
-  color: #fdeb89;
+  color: #130cae;
   font-weight: bold;
   font-size: 0.85rem;
   line-height: 24px;
 }
 
 #workskin .wpp .fromv {
-  color: #fdeb89;
+  color: #0aaccc;
   font-weight: bold;
   font-size: 0.85rem;
   line-height: 24px;
 }
 
 #workskin .wpp .from707 {
-  color: #fdeb89;
+  color: #cc0a0a;
   font-weight: bold;
   font-size: 0.85rem;
   line-height: 24px;
