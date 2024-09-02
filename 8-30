@@ -194,13 +194,6 @@
   margin-left: 37px;
 }
 
-#workskin .wpp .dark .voicetimerreceived {
-  font-size: 0.75em;
-  color: #8595A0;
-  display: inline-block;
-  margin-left: 37px;
-}
-
 #workskin .wpp .light .time2 {
   font-size: 0.75em;
   color: #999;
